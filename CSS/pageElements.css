@@ -1,0 +1,125 @@
+a.button{
+  padding: 20px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background-color: #e52f37;
+  color: white;
+  margin-top: 15px;
+  border-color: none;
+  border-radius: 40px;
+
+}
+
+a.button2{
+  padding: 20px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background-color:white;
+  color:  #e52f37;
+  margin-top: 15px;
+  border-color: none;
+  border-radius: 20px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.contact-button{
+  padding: 25px 70px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background-color: white;
+  color: #e52f37;
+  margin-top: 15px;
+  border-color: none;
+  border-radius: 10px;
+}
+
+p{
+  font-size: 15px;
+  font-weight: 10px;
+  color: rgb(75, 73, 73);
+  line-height: 1;
+}
+
+hr{
+  width: 50px;
+  color: #df2931;
+  padding: auto;
+  margin: auto;
+}
+
+.checked {
+  color: orange;
+}
+
+
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+}
+
+
+
+.transparent{
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+.input-border{
+  color: white;
+  font-size: 20px;
+  font-weight: 10px;
+  box-sizing: border-box;
+  border: 2px solid white;
+  border-radius: 4px;
+}
+
+.footer-padding{
+  padding-top: 1.5%;
+}
+
+.input-width{
+  width: 90%;
+  margin: 20px;
+}
+
+textarea{
+  text-indent: 20px;
+
+}
+
+.text-area{
+  width: 90%;
+}
+
+.input-height{
+  height: 50px;
+}
+
+.fa-facebook {
+  color: #3B5998;
+  text-decoration: none;
+}
+
+.fa-twitter {
+  color:  #55ACEE;
+  text-decoration: none;
+}
+.fa-instagram {
+  color: #125688;
+  text-decoration: none;
+}
+.fa-pinterest {
+  color: #cb2027;
+  text-decoration: none;
+}
+
+.fa-skype {
+  color: #00aff0;
+  text-decoration: none;
+}
+
